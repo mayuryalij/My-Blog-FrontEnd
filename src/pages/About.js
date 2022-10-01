@@ -11,7 +11,7 @@ const About = () => {
 
       Blogging is a fun and flexible way for self-expression and social connection, so it is no wonder blogs have become very popular. In addition, people can start blogging to improve their writing skills or even promote their businesses.
       <br/>
-      Furthermore, a professional blogger can even make money from blogging in various ways, such as Google ads and Amazon affiliate links. Profitable blogs can be of any topic. Think of any subject, and there is probably already a successful blog about it.</p>
+      Furthermore, a professional blogger can even make money from blogging in various ways, such as Google ads and Amazon affiliate links. Profitable blogs can  of any topic. Think of any subject, and there is probably already a successful blog about it.</p>
     </div>
   );
 };
